@@ -1,7 +1,7 @@
 # CoDrug
 Official implementation of CoDrug: Conformal Drug Property Prediction with Density Estimation under Covariate Shift
 
-Code for model training will be added soon.
+Code for model training and conformal prediction will be added soon
 
 If you find this useful in your research, please cite: 
 
